@@ -11,8 +11,8 @@ class DigitsOfNum
 	int num;
 public:
 	DigitsOfNum(int);
-	int getSumOfDigits(); //return sum of digits of a number
-	int getProductOfDigits(); //return product of digits of a number
+	int getSumOfDigits(); //returns sum of digits of a number
+	int getProductOfDigits(); //returns product of digits of a number
 
 };
 
