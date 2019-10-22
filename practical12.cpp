@@ -14,7 +14,7 @@ int main()
 	return 0;
 }
 
-void swap(int* first,int* second)
+void swap(int* first,int* second) //this function swaps two numbers
 {
 	int temp=*first;
 	*first=*second;
